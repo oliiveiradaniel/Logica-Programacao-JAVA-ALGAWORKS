@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo02/CursoLogicaCapitulo02.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo02/CursoLogicaCapitulo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo03/CursoLogicaCapitulo03.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo03/CursoLogicaCapitulo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo04/CursoLogicaCapitulo04.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo04/CursoLogicaCapitulo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo05/CursoLogicaCapitulo05.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo05/CursoLogicaCapitulo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo06/CursoLogicaCapitulo06.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo06/CursoLogicaCapitulo06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo07/CursoLogicaCapitulo07.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo07/CursoLogicaCapitulo07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo08/CursoLogicaCapitulo08.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo08/CursoLogicaCapitulo08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo09/CursoLogicaCapitulo09.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo09/CursoLogicaCapitulo09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoLogicaCapitulo10/CursoLogicaCapitulo10.iml" filepath="$PROJECT_DIR$/CursoLogicaCapitulo10/CursoLogicaCapitulo10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Logica de programação JAVA.iml" filepath="$PROJECT_DIR$/.idea/Logica de programação JAVA.iml" />
+    </modules>
+  </component>
+</project>
